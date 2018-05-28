@@ -1,5 +1,7 @@
 # London-council-wards-GeoJSON
 A simple GeoJSON containing all the council wards in the GLA.
 
-This is based on free and open data from the Ordinance Survey. Find out more at:
-https://www.ordnancesurvey.co.uk/business-and-government/products/opendata.html
+Contains OS data © Crown copyright and database right (2018). All data is used under the terms of the Open Government Licence v3.
+
+Find out more at:
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
